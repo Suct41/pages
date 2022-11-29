@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json
